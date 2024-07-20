@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DineshGoyal23
+- 👋 Hi, I’m @goyaldinesh23
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning Devops and Clouding
 - 💞️ I’m looking to collaborate for Devops projects  
